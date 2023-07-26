@@ -1,3 +1,8 @@
+# **WARNING!**
+**COMPLETELY UNSTABLE!**
+
+**Can and will freeze WriterClassic.**
+
 # Get started with WriterClassic !presence
 ## 1. Creating
 Go to https://discord.com/developers/applications/.

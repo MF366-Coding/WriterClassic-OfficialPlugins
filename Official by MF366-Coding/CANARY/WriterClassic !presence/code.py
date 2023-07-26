@@ -49,7 +49,7 @@ import time
 def plugin(a, b, c):
     RPC = Presence(client_id)  # Initialize the client class
     RPC.connect() # Start the handshake loop
-    
+
     filename = path.basename(c)
 
     print(
@@ -60,5 +60,5 @@ def plugin(a, b, c):
 
     while True:  # The presence will stay on as long as the program is running
         time.sleep(update_loop) # Can only update rich presence every 15 seconds
-  
+
 title = "WriterClassic !presence Loader"
