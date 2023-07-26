@@ -3,9 +3,9 @@ import sys
 from tkinter import messagebox as mb
 
 if sys.platform == "linux" or sys.platform == "darwin":
-    title = "Run with Python 3"
+    title = "Run file with Python 3"
 else:
-    title = "Run with PATH Python"
+    title = "Run file with PATH Python"
 
 def plugin(tk_root, tk_text, _file):
     if _file == False:
