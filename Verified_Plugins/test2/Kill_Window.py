@@ -1,1 +1,2 @@
-desktop_win.destroy()
+def plugin(desktop_window):
+    desktop_window.destroy()
