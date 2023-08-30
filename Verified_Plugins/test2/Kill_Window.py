@@ -1,2 +1,2 @@
-def plugin(desktop_window):
-    desktop_window.destroy()
+def plugin():
+    NOW_FILE = 1
