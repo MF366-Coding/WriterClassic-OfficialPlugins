@@ -7,3 +7,6 @@ The WriterClassic default plugin logo, that sadly went unused, was made by [Norb
 - [Norb-GetHash](https://github.com/MF366-Coding/WriterClassic-OfficialPlugins/tree/main/Verified_Plugins/Norb-GetHash)'s Versions 1 and 2 are not compatible with v10.1.1+ because of the new API
 - The same happens with [RandLooks](https://github.com/MF366-Coding/WriterClassic-OfficialPlugins/tree/main/Verified_Plugins/RandLooks)'s Version 1
 - The rest of the plugins only offer compatibility with v10.1.1+
+
+## Other stuff
+- `font_use` is officially deprecated in v10.4.0+ and [ExtraTools](https://github.com/MF366-Coding/WriterClassic-OfficialPlugins/tree/main/Verified_Plugins/ExtraTools) uses it on version **1**
