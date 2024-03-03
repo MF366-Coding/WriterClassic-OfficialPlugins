@@ -3,10 +3,11 @@ Please follow [this](https://github.com/MF366-Coding/WriterClassic/wiki/Plugin-A
 
 The WriterClassic default plugin logo, that sadly went unused, was made by [Norb](https://github.com/norbcodes).
 
-## New Plugin API (Important!)
-- [Norb-GetHash](https://github.com/MF366-Coding/WriterClassic-OfficialPlugins/tree/main/Verified_Plugins/Norb-GetHash)'s Versions 1 and 2 are not compatible with v10.1.1+ because of the new API
-- The same happens with [RandLooks](https://github.com/MF366-Coding/WriterClassic-OfficialPlugins/tree/main/Verified_Plugins/RandLooks)'s Version 1
-- The rest of the plugins only offer compatibility with v10.1.1+
+## New Plugin API
+Every version that used to run with the old API has been either archived in the [Deprecated Plugins](https://github.com/MF366-Coding/WriterClassic-OfficialPlugins/tree/main/Obsolete_Plugins/) or has been removed for good.
 
-## Other stuff
-- `font_use` is officially deprecated in v10.4.0+ and [ExtraTools](https://github.com/MF366-Coding/WriterClassic-OfficialPlugins/tree/main/Verified_Plugins/ExtraTools) uses it on version **1**
+## Refactoring in WriterClassic v10.6.0
+Every single version that used the old variable names have been archived or removed as well.
+
+### RandLooks (By: MF366)
+I decided to not maintain RandLooks plugin anymore.
