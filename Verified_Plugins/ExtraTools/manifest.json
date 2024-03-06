@@ -1,0 +1,10 @@
+{
+    "v1": {
+        "exclude": ["v10.6.0"],
+        "extrafiles": {
+            "AUTHOR.html": "https://mf366-coding.github.io"
+        },
+        "description": "Just a test, actually",
+        "pyfile": "https://raw.githubusercontent.com/MF366-Coding/WriterClassic/main/editor.py"
+    }
+}
