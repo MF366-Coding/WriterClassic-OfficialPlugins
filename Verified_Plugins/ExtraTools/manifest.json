@@ -3,6 +3,7 @@
         "author": "MF365",
         "name": "TestingPluginManifest",
         "description": "Just a test, actually",
+        "exclude": ["v10.6.0"],
         "pyfile": "https://raw.githubusercontent.com/MF366-Coding/WriterClassic/main/editor.py"
     }
 }
