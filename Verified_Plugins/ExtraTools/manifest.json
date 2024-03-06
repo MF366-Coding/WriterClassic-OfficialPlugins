@@ -1,9 +1,7 @@
 {
     "v1": {
-        "author": "MF365",
-        "name": "TestingPluginManifest",
-        "description": "Just a test, actually",
-        "uncompatible": ["v10.6.0"],
-        "pyfile": "https://raw.githubusercontent.com/MF366-Coding/WriterClassic/main/editor.py"
+        "author": "MF366",
+        "description": "Extra tools to improve your WriterClassic experience",
+        "zipfile": "https://raw.githubusercontent.com/MF366-Coding/WriterClassic-OfficialPlugins/main/Verified_Plugins/ExtraTools/Version1.zip"
     }
 }

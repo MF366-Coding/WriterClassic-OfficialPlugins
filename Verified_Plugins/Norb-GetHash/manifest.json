@@ -1,0 +1,8 @@
+{
+    "v1": {
+        "author": "Norb",
+        "description": "Grabs the current file contents, hashes them using SHA1 and copies them into your clipboard. :)",
+        "name": "GetHash",
+        "zipfile": "https://raw.githubusercontent.com/MF366-Coding/WriterClassic-OfficialPlugins/main/Verified_Plugins/Norb-GetHash/Version1.zip"
+    }
+}
